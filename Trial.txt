@@ -1,4 +1,9 @@
+>_<<<<<<< second_branch
+Bla bla bla 
+ah!, oh!, uh!
+=======
 Bla bla bla 1
 
 
 {Some random text}
+>_<>>>>>> master
